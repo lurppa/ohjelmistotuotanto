@@ -9,7 +9,6 @@ readme = "README.md"
 requires-python = "^3.10"
 dependencies = [
     "flask (>=3.1.2,<4.0.0)",
-    "jsonpickle (==2.2.0)"
 ]
 
 
